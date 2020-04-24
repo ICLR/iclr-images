@@ -10,7 +10,7 @@ SUMMARY:GAT: Generative Adversarial Training for Adversarial Example Detec
 DTSTART;VALUE=DATE-TIME:20200430T080000
 DTEND;VALUE=DATE-TIME:20200430T100000
 DTSTAMP;VALUE=DATE-TIME:20200430T080000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_SJeQEp4YDH.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_SJeQEp4YDH.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR

@@ -10,7 +10,7 @@ SUMMARY:HiLLoC: lossless image compression with hierarchical latent variab
 DTSTART;VALUE=DATE-TIME:20200430T170000
 DTEND;VALUE=DATE-TIME:20200430T190000
 DTSTAMP;VALUE=DATE-TIME:20200430T170000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_r1lZgyBYwS.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_r1lZgyBYwS.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR

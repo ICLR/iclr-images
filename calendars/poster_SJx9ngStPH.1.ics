@@ -10,7 +10,7 @@ SUMMARY:NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Arch
 DTSTART;VALUE=DATE-TIME:20200428T120000
 DTEND;VALUE=DATE-TIME:20200428T140000
 DTSTAMP;VALUE=DATE-TIME:20200428T120000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_SJx9ngStPH.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_SJx9ngStPH.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR

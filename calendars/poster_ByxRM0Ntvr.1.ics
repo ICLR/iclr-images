@@ -10,7 +10,7 @@ SUMMARY:Are Transformers universal approximators of sequence-to-sequence f
 DTSTART;VALUE=DATE-TIME:20200428T080000
 DTEND;VALUE=DATE-TIME:20200428T100000
 DTSTAMP;VALUE=DATE-TIME:20200428T080000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_ByxRM0Ntvr.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_ByxRM0Ntvr.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR

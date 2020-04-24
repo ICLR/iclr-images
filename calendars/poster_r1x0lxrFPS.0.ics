@@ -10,7 +10,7 @@ SUMMARY:BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network
 DTSTART;VALUE=DATE-TIME:20200430T050000
 DTEND;VALUE=DATE-TIME:20200430T070000
 DTSTAMP;VALUE=DATE-TIME:20200430T050000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_r1x0lxrFPS.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_r1x0lxrFPS.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR

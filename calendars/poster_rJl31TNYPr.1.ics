@@ -10,7 +10,7 @@ SUMMARY:Fooling Detection Alone is Not Enough: Adversarial Attack against
 DTSTART;VALUE=DATE-TIME:20200427T080000
 DTEND;VALUE=DATE-TIME:20200427T100000
 DTSTAMP;VALUE=DATE-TIME:20200427T080000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_rJl31TNYPr.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rJl31TNYPr.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR

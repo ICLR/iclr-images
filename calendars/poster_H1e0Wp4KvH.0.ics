@@ -9,7 +9,7 @@ SUMMARY:Automated curriculum generation through setter-solver interactions
 DTSTART;VALUE=DATE-TIME:20200428T120000
 DTEND;VALUE=DATE-TIME:20200428T140000
 DTSTAMP;VALUE=DATE-TIME:20200428T120000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_H1e0Wp4KvH.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_H1e0Wp4KvH.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR

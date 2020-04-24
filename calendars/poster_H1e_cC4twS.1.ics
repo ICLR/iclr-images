@@ -8,7 +8,7 @@ SUMMARY:Non-Autoregressive Dialog State Tracking
 DTSTART;VALUE=DATE-TIME:20200428T080000
 DTEND;VALUE=DATE-TIME:20200428T100000
 DTSTAMP;VALUE=DATE-TIME:20200428T080000Z
-DESCRIPTIONS:<a href="http://iclr.cc/virtual/poster_H1e_cC4twS.html">Poste
- r Page</a>
+DESCRIPTION:<a href="http://iclr.cc/virtual/poster_H1e_cC4twS.html">Poster
+  Page</a>
 END:VEVENT
 END:VCALENDAR
