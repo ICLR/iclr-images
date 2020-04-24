@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Implicit Bias of Gradient Descent based Adversarial Tra
+ ining on Separable Data
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Implicit Bias of Gradient Descent based Adversarial Training on Se
+ parable Data
+DTSTART;VALUE=DATE-TIME:20200429T080000
+DTEND;VALUE=DATE-TIME:20200429T100000
+DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
+END:VEVENT
+END:VCALENDAR

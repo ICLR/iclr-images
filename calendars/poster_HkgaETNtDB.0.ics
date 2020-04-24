@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Mixout: Effective Regularization to Finetune Large-scal
+ e Pretrained Language Models
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Mixout: Effective Regularization to Finetune Large-scale Pretraine
+ d Language Models
+DTSTART;VALUE=DATE-TIME:20200429T050000
+DTEND;VALUE=DATE-TIME:20200429T070000
+DTSTAMP;VALUE=DATE-TIME:20200429T050000Z
+END:VEVENT
+END:VCALENDAR

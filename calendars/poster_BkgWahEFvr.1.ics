@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Enhancing Transformation-Based Defenses Against Adversa
+ rial Attacks with a Distribution Classifier
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Enhancing Transformation-Based Defenses Against Adversarial Attack
+ s with a Distribution Classifier
+DTSTART;VALUE=DATE-TIME:20200429T120000
+DTEND;VALUE=DATE-TIME:20200429T140000
+DTSTAMP;VALUE=DATE-TIME:20200429T120000Z
+END:VEVENT
+END:VCALENDAR

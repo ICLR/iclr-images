@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Compression based bound for non-compressed network: uni
+ fied generalization error analysis of large compressible deep neural netwo
+ rk
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Compression based bound for non-compressed network: unified genera
+ lization error analysis of large compressible deep neural network
+DTSTART;VALUE=DATE-TIME:20200429T080000
+DTEND;VALUE=DATE-TIME:20200429T100000
+DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
+END:VEVENT
+END:VCALENDAR

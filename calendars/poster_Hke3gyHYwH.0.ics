@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Simple and Effective Regularization Methods for Trainin
+ g on Noisily Labeled Data with Generalization Guarantee
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Simple and Effective Regularization Methods for Training on Noisil
+ y Labeled Data with Generalization Guarantee
+DTSTART;VALUE=DATE-TIME:20200429T170000
+DTEND;VALUE=DATE-TIME:20200429T190000
+DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
+END:VEVENT
+END:VCALENDAR

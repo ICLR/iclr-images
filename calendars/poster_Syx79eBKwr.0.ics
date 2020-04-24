@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: A Mutual Information Maximization Perspective of Langua
+ ge Representation Learning
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:A Mutual Information Maximization Perspective of Language Represen
+ tation Learning
+DTSTART;VALUE=DATE-TIME:20200429T050000
+DTEND;VALUE=DATE-TIME:20200429T070000
+DTSTAMP;VALUE=DATE-TIME:20200429T050000Z
+END:VEVENT
+END:VCALENDAR

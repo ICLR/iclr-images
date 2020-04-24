@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Kaleidoscope: An Efficient\, Learnable Representation F
+ or All Structured Linear Maps
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Kaleidoscope: An Efficient\, Learnable Representation For All Stru
+ ctured Linear Maps
+DTSTART;VALUE=DATE-TIME:20200429T170000
+DTEND;VALUE=DATE-TIME:20200429T190000
+DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
+END:VEVENT
+END:VCALENDAR

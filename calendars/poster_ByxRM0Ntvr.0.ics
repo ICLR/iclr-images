@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Are Transformers universal approximators of sequence-to
+ -sequence functions?
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Are Transformers universal approximators of sequence-to-sequence f
+ unctions?
+DTSTART;VALUE=DATE-TIME:20200429T050000
+DTEND;VALUE=DATE-TIME:20200429T070000
+DTSTAMP;VALUE=DATE-TIME:20200429T050000Z
+END:VEVENT
+END:VCALENDAR

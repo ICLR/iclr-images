@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Automatically Discovering and Learning New Visual Categ
+ ories with Ranking Statistics
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Automatically Discovering and Learning New Visual Categories with 
+ Ranking Statistics
+DTSTART;VALUE=DATE-TIME:20200429T120000
+DTEND;VALUE=DATE-TIME:20200429T140000
+DTSTAMP;VALUE=DATE-TIME:20200429T120000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Improved Sample Complexities for Deep Neural Networks a
+ nd Robust Classification via an All-Layer Margin
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Improved Sample Complexities for Deep Neural Networks and Robust C
+ lassification via an All-Layer Margin
+DTSTART;VALUE=DATE-TIME:20200429T120000
+DTEND;VALUE=DATE-TIME:20200429T140000
+DTSTAMP;VALUE=DATE-TIME:20200429T120000Z
+END:VEVENT
+END:VCALENDAR

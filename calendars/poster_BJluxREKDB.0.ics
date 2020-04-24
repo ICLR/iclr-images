@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Learning Heuristics for Quantified Boolean Formulas thr
+ ough Reinforcement Learning
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Learning Heuristics for Quantified Boolean Formulas through Reinfo
+ rcement Learning
+DTSTART;VALUE=DATE-TIME:20200429T050000
+DTEND;VALUE=DATE-TIME:20200429T070000
+DTSTAMP;VALUE=DATE-TIME:20200429T050000Z
+END:VEVENT
+END:VCALENDAR

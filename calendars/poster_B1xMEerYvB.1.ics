@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Smooth markets: A basic mechanism for organizing gradie
+ nt-based learners
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Smooth markets: A basic mechanism for organizing gradient-based le
+ arners
+DTSTART;VALUE=DATE-TIME:20200429T170000
+DTEND;VALUE=DATE-TIME:20200429T190000
+DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
+END:VEVENT
+END:VCALENDAR

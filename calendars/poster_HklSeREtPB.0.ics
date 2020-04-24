@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Emergence of functional and structural properties of th
+ e head direction system by optimization of recurrent neural networks
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Emergence of functional and structural properties of the head dire
+ ction system by optimization of recurrent neural networks
+DTSTART;VALUE=DATE-TIME:20200429T170000
+DTEND;VALUE=DATE-TIME:20200429T190000
+DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
+END:VEVENT
+END:VCALENDAR

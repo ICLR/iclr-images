@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: From Inference to Generation: End-to-end Fully Self-sup
+ ervised Generation of Human Face from Speech
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:From Inference to Generation: End-to-end Fully Self-supervised Gen
+ eration of Human Face from Speech
+DTSTART;VALUE=DATE-TIME:20200429T080000
+DTEND;VALUE=DATE-TIME:20200429T100000
+DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
+END:VEVENT
+END:VCALENDAR

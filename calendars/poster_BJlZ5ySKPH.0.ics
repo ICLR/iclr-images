@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: U-GAT-IT: Unsupervised Generative Attentional Networks 
+ with Adaptive Layer-Instance Normalization for Image-to-Image Translation
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:U-GAT-IT: Unsupervised Generative Attentional Networks with Adapti
+ ve Layer-Instance Normalization for Image-to-Image Translation
+DTSTART;VALUE=DATE-TIME:20200429T050000
+DTEND;VALUE=DATE-TIME:20200429T070000
+DTSTAMP;VALUE=DATE-TIME:20200429T050000Z
+END:VEVENT
+END:VCALENDAR

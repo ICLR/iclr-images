@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: DeepHoyer: Learning Sparser Neural Network with Differe
+ ntiable Scale-Invariant Sparsity Measures
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:DeepHoyer: Learning Sparser Neural Network with Differentiable Sca
+ le-Invariant Sparsity Measures
+DTSTART;VALUE=DATE-TIME:20200429T170000
+DTEND;VALUE=DATE-TIME:20200429T190000
+DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
+END:VEVENT
+END:VCALENDAR

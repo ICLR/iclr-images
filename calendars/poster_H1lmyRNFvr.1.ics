@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Augmenting Genetic Algorithms with Deep Neural Networks
+  for Exploring the Chemical Space
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Augmenting Genetic Algorithms with Deep Neural Networks for Explor
+ ing the Chemical Space
+DTSTART;VALUE=DATE-TIME:20200429T120000
+DTEND;VALUE=DATE-TIME:20200429T140000
+DTSTAMP;VALUE=DATE-TIME:20200429T120000Z
+END:VEVENT
+END:VCALENDAR

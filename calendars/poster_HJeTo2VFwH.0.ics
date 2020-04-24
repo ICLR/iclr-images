@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: A Signal Propagation Perspective for Pruning Neural Net
+ works at Initialization
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:A Signal Propagation Perspective for Pruning Neural Networks at In
+ itialization
+DTSTART;VALUE=DATE-TIME:20200429T080000
+DTEND;VALUE=DATE-TIME:20200429T100000
+DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
+END:VEVENT
+END:VCALENDAR

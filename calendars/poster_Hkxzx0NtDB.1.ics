@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Your classifier is secretly an energy based model and y
+ ou should treat it like one
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Your classifier is secretly an energy based model and you should t
+ reat it like one
+DTSTART;VALUE=DATE-TIME:20200429T200000
+DTEND;VALUE=DATE-TIME:20200429T220000
+DTSTAMP;VALUE=DATE-TIME:20200429T200000Z
+END:VEVENT
+END:VCALENDAR

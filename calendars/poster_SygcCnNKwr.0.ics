@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: Measuring Compositional Generalization: A Comprehensive
+  Method on Realistic Data
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Measuring Compositional Generalization: A Comprehensive Method on 
+ Realistic Data
+DTSTART;VALUE=DATE-TIME:20200429T080000
+DTEND;VALUE=DATE-TIME:20200429T100000
+DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
+END:VEVENT
+END:VCALENDAR

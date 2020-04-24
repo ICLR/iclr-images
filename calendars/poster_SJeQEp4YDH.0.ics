@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICLR//mxm.dk//
+X-WR-CALNAME:ICLR: GAT: Generative Adversarial Training for Adversarial Ex
+ ample Detection and Classification
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:GAT: Generative Adversarial Training for Adversarial Example Detec
+ tion and Classification
+DTSTART;VALUE=DATE-TIME:20200429T050000
+DTEND;VALUE=DATE-TIME:20200429T070000
+DTSTAMP;VALUE=DATE-TIME:20200429T050000Z
+END:VEVENT
+END:VCALENDAR
