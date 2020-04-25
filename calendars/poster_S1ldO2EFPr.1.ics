@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Graph Neural Networks Exponentially Lose Expressive Pow
  er for Node Classification
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Graph Neural Networks Exponentially Lose Expressive Power for Node
   Classification

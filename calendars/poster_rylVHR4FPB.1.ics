@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Sampling-Free Learning of Bayesian Quantized Neural Net
  works
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Sampling-Free Learning of Bayesian Quantized Neural Networks
 DTSTART;VALUE=DATE-TIME:20200430T170000

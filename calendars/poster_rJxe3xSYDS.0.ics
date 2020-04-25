@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Extreme Classification via Adversarial Softmax Approxim
  ation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Extreme Classification via Adversarial Softmax Approximation
 DTSTART;VALUE=DATE-TIME:20200430T050000

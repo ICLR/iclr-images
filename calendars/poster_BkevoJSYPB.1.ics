@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Differentiation of Blackbox Combinatorial Solvers
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Differentiation of Blackbox Combinatorial Solvers
 DTSTART;VALUE=DATE-TIME:20200430T200000

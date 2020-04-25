@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Pre-training Tasks for Embedding-based Large-scale Retr
  ieval
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Pre-training Tasks for Embedding-based Large-scale Retrieval
 DTSTART;VALUE=DATE-TIME:20200428T120000

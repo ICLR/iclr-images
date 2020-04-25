@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Gradient $\\ell_1$ Regularization for Quantization Robu
  stness
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Gradient $\\ell_1$ Regularization for Quantization Robustness
 DTSTART;VALUE=DATE-TIME:20200429T080000

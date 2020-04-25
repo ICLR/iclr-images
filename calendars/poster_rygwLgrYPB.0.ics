@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Regularizing activations in neural networks via distrib
  ution matching with the Wasserstein metric
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Regularizing activations in neural networks via distribution match
  ing with the Wasserstein metric

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Pitfalls of In-Domain Uncertainty Estimation and Ensemb
  ling in Deep Learning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Dee
  p Learning

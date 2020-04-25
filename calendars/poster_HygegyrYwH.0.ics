@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Polylogarithmic width suffices for gradient descent to 
  achieve arbitrarily small test error with shallow ReLU networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Polylogarithmic width suffices for gradient descent to achieve arb
  itrarily small test error with shallow ReLU networks

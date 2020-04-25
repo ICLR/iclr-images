@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Robust And Interpretable Blind Image Denoising Via Bias
  -Free Convolutional Neural Networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Robust And Interpretable Blind Image Denoising Via Bias-Free Convo
  lutional Neural Networks

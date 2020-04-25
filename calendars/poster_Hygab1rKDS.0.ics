@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Quantum Algorithms for Deep Convolutional Neural Networ
  ks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Quantum Algorithms for Deep Convolutional Neural Networks
 DTSTART;VALUE=DATE-TIME:20200429T080000

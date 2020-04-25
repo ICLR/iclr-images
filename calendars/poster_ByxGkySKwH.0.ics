@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Towards neural networks that provably know when they do
  n't know
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Towards neural networks that provably know when they don't know
 DTSTART;VALUE=DATE-TIME:20200429T080000

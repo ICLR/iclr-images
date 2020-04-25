@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Reinforcement Learning Based Graph-to-Sequence Model fo
  r Natural Question Generation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Reinforcement Learning Based Graph-to-Sequence Model for Natural Q
  uestion Generation

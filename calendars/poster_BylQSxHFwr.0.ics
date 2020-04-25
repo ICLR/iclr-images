@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: AtomNAS: Fine-Grained End-to-End Neural Architecture Se
  arch
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:AtomNAS: Fine-Grained End-to-End Neural Architecture Search
 DTSTART;VALUE=DATE-TIME:20200430T050000

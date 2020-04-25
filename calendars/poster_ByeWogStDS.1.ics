@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Sub-policy Adaptation for Hierarchical Reinforcement Le
  arning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Sub-policy Adaptation for Hierarchical Reinforcement Learning
 DTSTART;VALUE=DATE-TIME:20200428T200000

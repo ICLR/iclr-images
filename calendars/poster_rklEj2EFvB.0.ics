@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Estimating Gradients for Discrete Random Variables by S
  ampling without Replacement
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Estimating Gradients for Discrete Random Variables by Sampling wit
  hout Replacement

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Adaptive Correlated Monte Carlo for Contextual Categori
  cal Sequence Generation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Adaptive Correlated Monte Carlo for Contextual Categorical Sequenc
  e Generation

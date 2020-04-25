@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Sliced Cramer Synaptic Consolidation for Preserving Dee
  ply Learned Representations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned
   Representations

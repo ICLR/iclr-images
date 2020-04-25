@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Four Things Everyone Should Know to Improve Batch Norma
  lization
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Four Things Everyone Should Know to Improve Batch Normalization
 DTSTART;VALUE=DATE-TIME:20200430T170000

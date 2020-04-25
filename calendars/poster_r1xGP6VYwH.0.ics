@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Optimistic Exploration even with a Pessimistic Initiali
  sation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Optimistic Exploration even with a Pessimistic Initialisation
 DTSTART;VALUE=DATE-TIME:20200427T170000

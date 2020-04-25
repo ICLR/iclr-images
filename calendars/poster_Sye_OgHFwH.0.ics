@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Unrestricted Adversarial Examples via Semantic Manipula
  tion
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Unrestricted Adversarial Examples via Semantic Manipulation
 DTSTART;VALUE=DATE-TIME:20200430T050000

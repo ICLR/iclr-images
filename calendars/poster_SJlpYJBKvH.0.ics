@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Measuring the Reliability of Reinforcement Learning Alg
  orithms
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Measuring the Reliability of Reinforcement Learning Algorithms
 DTSTART;VALUE=DATE-TIME:20200427T170000

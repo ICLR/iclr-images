@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: An Inductive Bias for Distances: Neural Nets that Respe
  ct the Triangle Inequality
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:An Inductive Bias for Distances: Neural Nets that Respect the Tria
  ngle Inequality

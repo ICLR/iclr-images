@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Certified Robustness for Top-k Predictions against Adve
  rsarial Perturbations via Randomized Smoothing
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Certified Robustness for Top-k Predictions against Adversarial Per
  turbations via Randomized Smoothing

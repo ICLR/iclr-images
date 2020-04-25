@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: SNOW: Subscribing to Knowledge via Channel Pooling for 
  Transfer & Lifelong Learning of Convolutional Neural Networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:SNOW: Subscribing to Knowledge via Channel Pooling for Transfer & 
  Lifelong Learning of Convolutional Neural Networks

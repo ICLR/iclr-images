@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Dynamically Pruned Message Passing Networks for Large-s
  cale Knowledge Graph Reasoning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Dynamically Pruned Message Passing Networks for Large-scale Knowle
  dge Graph Reasoning

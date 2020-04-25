@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Provable robustness against all adversarial $l_p$-pertu
  rbations for $p\\geq 1$
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Provable robustness against all adversarial $l_p$-perturbations fo
  r $p\\geq 1$

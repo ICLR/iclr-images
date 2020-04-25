@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Effect of Activation Functions on the Training of Overp
  arametrized Neural Nets
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Effect of Activation Functions on the Training of Overparametrized
   Neural Nets

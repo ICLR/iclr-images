@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: One-Shot Pruning of Recurrent Neural Networks by Jacobi
  an Spectrum Evaluation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum
   Evaluation

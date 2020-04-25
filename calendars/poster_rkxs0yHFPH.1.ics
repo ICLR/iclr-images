@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: SpikeGrad: An ANN-equivalent Computation Model for Impl
  ementing Backpropagation with Spikes
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:SpikeGrad: An ANN-equivalent Computation Model for Implementing Ba
  ckpropagation with Spikes

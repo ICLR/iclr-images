@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: The asymptotic spectrum of the Hessian of DNN throughou
  t training
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:The asymptotic spectrum of the Hessian of DNN throughout training
 DTSTART;VALUE=DATE-TIME:20200428T120000

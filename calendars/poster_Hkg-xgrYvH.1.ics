@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Empirical Bayes Transductive Meta-Learning with Synthet
  ic Gradients
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Empirical Bayes Transductive Meta-Learning with Synthetic Gradient
  s

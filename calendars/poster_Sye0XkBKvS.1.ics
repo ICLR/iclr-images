@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: SNODE: Spectral Discretization of Neural ODEs for Syste
  m Identification
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:SNODE: Spectral Discretization of Neural ODEs for System Identific
  ation

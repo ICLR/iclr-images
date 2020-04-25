@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Consistency Regularization for Generative Adversarial N
  etworks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Consistency Regularization for Generative Adversarial Networks
 DTSTART;VALUE=DATE-TIME:20200430T200000

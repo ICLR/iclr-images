@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Implicit Bias of Gradient Descent based Adversarial Tra
  ining on Separable Data
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Implicit Bias of Gradient Descent based Adversarial Training on Se
  parable Data

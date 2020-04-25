@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Playing the lottery with rewards and multiple languages
  : lottery tickets in RL and NLP
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Playing the lottery with rewards and multiple languages: lottery t
  ickets in RL and NLP

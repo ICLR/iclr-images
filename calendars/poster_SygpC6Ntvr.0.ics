@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Minimizing FLOPs to Learn Efficient Sparse Representati
  ons
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Minimizing FLOPs to Learn Efficient Sparse Representations
 DTSTART;VALUE=DATE-TIME:20200428T120000

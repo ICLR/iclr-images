@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Discriminative Particle Filter Reinforcement Learning f
  or Complex Partial observations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Discriminative Particle Filter Reinforcement Learning for Complex 
  Partial observations

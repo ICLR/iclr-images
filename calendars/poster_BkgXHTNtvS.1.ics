@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Bounds on Over-Parameterization for Guaranteed Existenc
  e of Descent Paths in Shallow ReLU Networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Bounds on Over-Parameterization for Guaranteed Existence of Descen
  t Paths in Shallow ReLU Networks

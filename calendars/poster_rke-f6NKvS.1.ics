@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Learning Self-Correctable Policies and Value Functions 
  from Demonstrations with Negative Sampling
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Learning Self-Correctable Policies and Value Functions from Demons
  trations with Negative Sampling

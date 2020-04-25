@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Enhancing Adversarial Defense by k-Winners-Take-All
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Enhancing Adversarial Defense by k-Winners-Take-All
 DTSTART;VALUE=DATE-TIME:20200427T120000

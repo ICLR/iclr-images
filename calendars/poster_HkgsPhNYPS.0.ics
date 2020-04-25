@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: SELF: Learning to Filter Noisy Labels with Self-Ensembl
  ing
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:SELF: Learning to Filter Noisy Labels with Self-Ensembling
 DTSTART;VALUE=DATE-TIME:20200429T080000

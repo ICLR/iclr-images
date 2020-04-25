@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Low-dimensional statistical manifold embedding of direc
  ted graphs
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Low-dimensional statistical manifold embedding of directed graphs
 DTSTART;VALUE=DATE-TIME:20200430T080000

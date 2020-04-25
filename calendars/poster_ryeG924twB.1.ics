@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Learning Expensive Coordination: An Event-Based Deep RL
   Approach
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Learning Expensive Coordination: An Event-Based Deep RL Approach
 DTSTART;VALUE=DATE-TIME:20200428T080000

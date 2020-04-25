@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Robust anomaly detection and backdoor attack detection 
  via differential privacy
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Robust anomaly detection and backdoor attack detection via differe
  ntial privacy

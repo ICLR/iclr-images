@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: On the Equivalence between Positional Node Embeddings a
  nd Structural Graph Representations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:On the Equivalence between Positional Node Embeddings and Structur
  al Graph Representations

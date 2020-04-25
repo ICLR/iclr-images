@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Neural Epitome Search for Architecture-Agnostic Network
   Compression
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Neural Epitome Search for Architecture-Agnostic Network Compressio
  n

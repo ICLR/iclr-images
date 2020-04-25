@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Training Generative Adversarial Networks from Incomplet
  e Observations using Factorised Discriminators
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Training Generative Adversarial Networks from Incomplete Observati
  ons using Factorised Discriminators

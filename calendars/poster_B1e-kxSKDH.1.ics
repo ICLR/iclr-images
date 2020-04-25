@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Structured Object-Aware Physics Prediction for Video Mo
  deling and Planning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Structured Object-Aware Physics Prediction for Video Modeling and 
  Planning

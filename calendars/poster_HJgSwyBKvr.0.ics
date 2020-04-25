@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Weakly Supervised Disentanglement with Guarantees
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Weakly Supervised Disentanglement with Guarantees
 DTSTART;VALUE=DATE-TIME:20200429T170000

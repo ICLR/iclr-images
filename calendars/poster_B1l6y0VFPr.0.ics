@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Identity Crisis: Memorization and Generalization Under 
  Extreme Overparameterization
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Identity Crisis: Memorization and Generalization Under Extreme Ove
  rparameterization

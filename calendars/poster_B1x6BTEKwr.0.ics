@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Piecewise linear activations substantially shape the lo
  ss surfaces of neural networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Piecewise linear activations substantially shape the loss surfaces
   of neural networks

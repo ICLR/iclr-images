@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Cross-Domain Few-Shot Classification via Learned Featur
  e-Wise Transformation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Cross-Domain Few-Shot Classification via Learned Feature-Wise Tran
  sformation

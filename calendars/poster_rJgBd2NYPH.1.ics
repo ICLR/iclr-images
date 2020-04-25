@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Learning deep graph matching with channel-independent e
  mbedding and Hungarian attention
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Learning deep graph matching with channel-independent embedding an
  d Hungarian attention

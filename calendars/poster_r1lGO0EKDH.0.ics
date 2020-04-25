@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: GraphZoom: A Multi-level Spectral Approach for Accurate
   and Scalable Graph Embedding
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:GraphZoom: A Multi-level Spectral Approach for Accurate and Scalab
  le Graph Embedding

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Fantastic Generalization Measures and Where to Find The
  m
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Fantastic Generalization Measures and Where to Find Them
 DTSTART;VALUE=DATE-TIME:20200430T200000

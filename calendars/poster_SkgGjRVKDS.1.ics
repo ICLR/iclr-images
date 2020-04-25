@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Towards Stabilizing Batch Statistics in Backward Propag
  ation of Batch Normalization
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Towards Stabilizing Batch Statistics in Backward Propagation of Ba
  tch Normalization

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Query2box: Reasoning over Knowledge Graphs in Vector Sp
  ace Using Box Embeddings
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Query2box: Reasoning over Knowledge Graphs in Vector Space Using B
  ox Embeddings

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Scalable Model Compression by Entropy Penalized Reparam
  eterization
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Scalable Model Compression by Entropy Penalized Reparameterization
 DTSTART;VALUE=DATE-TIME:20200427T120000

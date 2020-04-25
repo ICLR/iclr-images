@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Knowledge Consistency between Neural Networks and Beyon
  d
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Knowledge Consistency between Neural Networks and Beyond
 DTSTART;VALUE=DATE-TIME:20200430T080000

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Pseudo-LiDAR++: Accurate Depth for 3D Object Detection 
  in Autonomous Driving
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomo
  us Driving

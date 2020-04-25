@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Intriguing Properties of Adversarial Training at Scale
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Intriguing Properties of Adversarial Training at Scale
 DTSTART;VALUE=DATE-TIME:20200430T170000

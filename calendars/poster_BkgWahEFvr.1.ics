@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Enhancing Transformation-Based Defenses Against Adversa
  rial Attacks with a Distribution Classifier
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Enhancing Transformation-Based Defenses Against Adversarial Attack
  s with a Distribution Classifier

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Prediction Poisoning: Towards Defenses Against DNN Mode
  l Stealing Attacks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Prediction Poisoning: Towards Defenses Against DNN Model Stealing 
  Attacks

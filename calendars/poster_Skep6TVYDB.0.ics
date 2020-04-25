@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Gradientless Descent: High-Dimensional Zeroth-Order Opt
  imization
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Gradientless Descent: High-Dimensional Zeroth-Order Optimization
 DTSTART;VALUE=DATE-TIME:20200427T120000

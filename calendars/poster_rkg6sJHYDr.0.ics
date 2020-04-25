@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Intrinsically Motivated Discovery of Diverse Patterns i
  n Self-Organizing Systems
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Intrinsically Motivated Discovery of Diverse Patterns in Self-Orga
  nizing Systems

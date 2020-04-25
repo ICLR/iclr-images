@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Measuring and Improving the Use of Graph Information in
   Graph Neural Networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Measuring and Improving the Use of Graph Information in Graph Neur
  al Networks

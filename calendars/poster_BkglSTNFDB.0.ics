@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Q-learning with UCB Exploration is Sample Efficient for
   Infinite-Horizon MDP
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Q-learning with UCB Exploration is Sample Efficient for Infinite-H
  orizon MDP

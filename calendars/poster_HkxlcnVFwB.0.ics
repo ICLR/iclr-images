@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: GenDICE: Generalized Offline Estimation of Stationary V
  alues
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:GenDICE: Generalized Offline Estimation of Stationary Values
 DTSTART;VALUE=DATE-TIME:20200428T170000

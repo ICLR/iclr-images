@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Implementation Matters in Deep RL: A Case Study on PPO 
  and TRPO
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Implementation Matters in Deep RL: A Case Study on PPO and TRPO
 DTSTART;VALUE=DATE-TIME:20200427T170000

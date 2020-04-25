@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Estimating counterfactual treatment outcomes over time 
  through adversarially balanced representations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Estimating counterfactual treatment outcomes over time through adv
  ersarially balanced representations

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Efficient Probabilistic Logic Reasoning with Graph Neur
  al Networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Efficient Probabilistic Logic Reasoning with Graph Neural Networks
 DTSTART;VALUE=DATE-TIME:20200430T080000

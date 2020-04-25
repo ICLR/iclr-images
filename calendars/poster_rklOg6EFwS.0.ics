@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Improving Adversarial Robustness Requires Revisiting Mi
  sclassified Examples
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Improving Adversarial Robustness Requires Revisiting Misclassified
   Examples

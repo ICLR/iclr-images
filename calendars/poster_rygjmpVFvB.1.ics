@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Difference-Seeking Generative Adversarial Network--Unse
  en Sample Generation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Difference-Seeking Generative Adversarial Network--Unseen Sample G
  eneration

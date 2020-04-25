@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: How much Position Information Do Convolutional Neural N
  etworks Encode?
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:How much Position Information Do Convolutional Neural Networks Enc
  ode?

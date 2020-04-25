@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: SCALOR: Generative World Models with Scalable Object Re
  presentations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:SCALOR: Generative World Models with Scalable Object Representatio
  ns

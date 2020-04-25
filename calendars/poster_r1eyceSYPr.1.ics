@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Unbiased Contrastive Divergence Algorithm for Training 
  Energy-Based Latent Variable Models
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Unbiased Contrastive Divergence Algorithm for Training Energy-Base
  d Latent Variable Models

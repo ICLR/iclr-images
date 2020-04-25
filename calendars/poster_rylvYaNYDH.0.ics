@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Finding and Visualizing Weaknesses of Deep Reinforcemen
  t Learning Agents
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Finding and Visualizing Weaknesses of Deep Reinforcement Learning 
  Agents

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: On Generalization Error Bounds of Noisy Gradient Method
  s for Non-Convex Learning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:On Generalization Error Bounds of Noisy Gradient Methods for Non-C
  onvex Learning

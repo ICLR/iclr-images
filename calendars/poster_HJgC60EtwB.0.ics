@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Robust Reinforcement Learning for Continuous Control wi
  th Model Misspecification
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Robust Reinforcement Learning for Continuous Control with Model Mi
  sspecification

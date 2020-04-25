@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Explain Your Move: Understanding Agent Actions Using Fo
  cused Feature Saliency
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Explain Your Move: Understanding Agent Actions Using Focused Featu
  re Saliency

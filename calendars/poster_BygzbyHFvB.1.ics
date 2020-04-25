@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: FreeLB: Enhanced Adversarial Training for Natural Langu
  age Understanding
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:FreeLB: Enhanced Adversarial Training for Natural Language Underst
  anding

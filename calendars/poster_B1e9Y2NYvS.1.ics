@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: On Robustness of Neural Ordinary Differential Equations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:On Robustness of Neural Ordinary Differential Equations
 DTSTART;VALUE=DATE-TIME:20200427T080000

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Deep 3D Pan via Local adaptive "t-shaped" convolutions 
  with global and local adaptive dilations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Deep 3D Pan via Local adaptive "t-shaped" convolutions with global
   and local adaptive dilations

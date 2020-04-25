@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Deep Double Descent: Where Bigger Models and More Data 
  Hurt
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Deep Double Descent: Where Bigger Models and More Data Hurt
 DTSTART;VALUE=DATE-TIME:20200427T120000
