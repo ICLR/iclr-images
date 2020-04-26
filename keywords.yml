@@ -1,3 +1,10 @@
 - paper: "SJxSDxrKDr"
   keywords:
     - "adversarial"  
+- paper: "rkg6sJHYDr"
+  keywords:
+    - "exploration"
+    - "object discovery"
+    - "autoencoder"
+    - "sample efficiency"
+    - "intrinsic motivation"
