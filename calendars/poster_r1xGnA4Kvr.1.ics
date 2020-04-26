@@ -7,8 +7,8 @@ X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Biologically inspired sleep algorithm for increased generalization
   and adversarial robustness in deep neural networks
-DTSTART;VALUE=DATE-TIME:20200427T200000
-DTEND;VALUE=DATE-TIME:20200427T220000
+DTSTART;VALUE=DATE-TIME:20200427T200000Z
+DTEND;VALUE=DATE-TIME:20200427T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_r1xGnA4Kvr.html">Poster
   Page</a>

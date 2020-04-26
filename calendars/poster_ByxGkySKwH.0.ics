@@ -6,8 +6,8 @@ X-WR-CALNAME:ICLR: Towards neural networks that provably know when they do
 X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Towards neural networks that provably know when they don't know
-DTSTART;VALUE=DATE-TIME:20200429T080000
-DTEND;VALUE=DATE-TIME:20200429T100000
+DTSTART;VALUE=DATE-TIME:20200429T080000Z
+DTEND;VALUE=DATE-TIME:20200429T100000Z
 DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_ByxGkySKwH.html">Poster
   Page</a>

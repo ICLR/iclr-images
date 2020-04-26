@@ -7,8 +7,8 @@ X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Posterior sampling for multi-agent reinforcement learning: solving
   extensive games with imperfect information
-DTSTART;VALUE=DATE-TIME:20200427T080000
-DTEND;VALUE=DATE-TIME:20200427T100000
+DTSTART;VALUE=DATE-TIME:20200427T080000Z
+DTEND;VALUE=DATE-TIME:20200427T100000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T080000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_Syg-ET4FPS.html">Poster
   Page</a>

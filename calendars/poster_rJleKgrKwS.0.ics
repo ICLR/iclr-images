@@ -6,8 +6,8 @@ X-WR-CALNAME:ICLR: Differentiable learning of numerical rules in knowledge
 X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Differentiable learning of numerical rules in knowledge graphs
-DTSTART;VALUE=DATE-TIME:20200429T120000
-DTEND;VALUE=DATE-TIME:20200429T140000
+DTSTART;VALUE=DATE-TIME:20200429T120000Z
+DTEND;VALUE=DATE-TIME:20200429T140000Z
 DTSTAMP;VALUE=DATE-TIME:20200429T120000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rJleKgrKwS.html">Poster
   Page</a>
