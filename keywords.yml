@@ -4,6 +4,8 @@
 - paper: "SkeuexBtDr"
   keywords:
     - denoising
-    - weakly supervised learning
-    - nlp
     - noisy labels
+    - nlp
+    - weakly supervised learning
+    - semi supervised learning
+    - text classification   
