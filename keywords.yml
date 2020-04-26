@@ -1,8 +1,16 @@
 - paper: "SJxSDxrKDr"
   keywords:
-    - "adversarial"
 - paper: "H1gNOeHKPS"
   keywords:
+    - "adversarial"
     - "generalization"
     - "inductive bias"
     - "interpretability"
+    - "adversarial"  
+- paper: "rkg6sJHYDr"
+  keywords:
+    - "exploration"
+    - "object discovery"
+    - "autoencoder"
+    - "sample efficiency"
+    - "intrinsic motivation"
