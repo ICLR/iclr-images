@@ -4,13 +4,13 @@ PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Compression based bound for non-compressed network: uni
  fied generalization error analysis of large compressible deep neural netwo
  rk
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Compression based bound for non-compressed network: unified genera
  lization error analysis of large compressible deep neural network
-DTSTART;VALUE=DATE-TIME:20200429T170000
-DTEND;VALUE=DATE-TIME:20200429T190000
-DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
+DTSTART;VALUE=DATE-TIME:20200429T120000Z
+DTEND;VALUE=DATE-TIME:20200429T140000Z
+DTSTAMP;VALUE=DATE-TIME:20200429T120000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_ByeGzlrKwH.html">Poster
   Page</a>
 END:VEVENT

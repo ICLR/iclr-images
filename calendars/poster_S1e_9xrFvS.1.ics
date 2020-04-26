@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Energy-based models for atomic-resolution protein confo
  rmations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Energy-based models for atomic-resolution protein conformations
-DTSTART;VALUE=DATE-TIME:20200428T080000
-DTEND;VALUE=DATE-TIME:20200428T100000
+DTSTART;VALUE=DATE-TIME:20200428T080000Z
+DTEND;VALUE=DATE-TIME:20200428T100000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T080000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_S1e_9xrFvS.html">Poster
   Page</a>

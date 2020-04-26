@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Network Randomization: A Simple Technique for Generaliz
  ation in Deep Reinforcement Learning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Network Randomization: A Simple Technique for Generalization in De
  ep Reinforcement Learning
-DTSTART;VALUE=DATE-TIME:20200427T200000
-DTEND;VALUE=DATE-TIME:20200427T220000
+DTSTART;VALUE=DATE-TIME:20200427T200000Z
+DTEND;VALUE=DATE-TIME:20200427T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_HJgcvJBFvB.html">Poster
   Page</a>

@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Triple Wins: Boosting Accuracy\, Robustness and Efficie
  ncy Together by Enabling Input-Adaptive Inference
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Triple Wins: Boosting Accuracy\, Robustness and Efficiency Togethe
  r by Enabling Input-Adaptive Inference
-DTSTART;VALUE=DATE-TIME:20200430T170000
-DTEND;VALUE=DATE-TIME:20200430T190000
-DTSTAMP;VALUE=DATE-TIME:20200430T170000Z
+DTSTART;VALUE=DATE-TIME:20200430T120000Z
+DTEND;VALUE=DATE-TIME:20200430T140000Z
+DTSTAMP;VALUE=DATE-TIME:20200430T120000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rJgzzJHtDB.html">Poster
   Page</a>
 END:VEVENT

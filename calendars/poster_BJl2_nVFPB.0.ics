@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Automatically Discovering and Learning New Visual Categ
  ories with Ranking Statistics
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Automatically Discovering and Learning New Visual Categories with 
  Ranking Statistics
-DTSTART;VALUE=DATE-TIME:20200427T050000
-DTEND;VALUE=DATE-TIME:20200427T070000
+DTSTART;VALUE=DATE-TIME:20200427T050000Z
+DTEND;VALUE=DATE-TIME:20200427T070000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_BJl2_nVFPB.html">Poster
   Page</a>

@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Critical initialisation in continuous approximations of
   binary neural networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Critical initialisation in continuous approximations of binary neu
  ral networks
-DTSTART;VALUE=DATE-TIME:20200428T120000
-DTEND;VALUE=DATE-TIME:20200428T140000
-DTSTAMP;VALUE=DATE-TIME:20200428T120000Z
+DTSTART;VALUE=DATE-TIME:20200428T080000Z
+DTEND;VALUE=DATE-TIME:20200428T100000Z
+DTSTAMP;VALUE=DATE-TIME:20200428T080000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rylmoxrFDH.html">Poster
   Page</a>
 END:VEVENT

@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Provable robustness against all adversarial $l_p$-pertu
  rbations for $p\\geq 1$
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Provable robustness against all adversarial $l_p$-perturbations fo
  r $p\\geq 1$
-DTSTART;VALUE=DATE-TIME:20200428T200000
-DTEND;VALUE=DATE-TIME:20200428T220000
+DTSTART;VALUE=DATE-TIME:20200428T200000Z
+DTEND;VALUE=DATE-TIME:20200428T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rklk_ySYPB.html">Poster
   Page</a>

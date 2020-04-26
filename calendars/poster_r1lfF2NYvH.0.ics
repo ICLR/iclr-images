@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: InfoGraph: Unsupervised and Semi-supervised Graph-Level
   Representation Learning via Mutual Information Maximization
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:InfoGraph: Unsupervised and Semi-supervised Graph-Level Representa
  tion Learning via Mutual Information Maximization
-DTSTART;VALUE=DATE-TIME:20200430T170000
-DTEND;VALUE=DATE-TIME:20200430T190000
-DTSTAMP;VALUE=DATE-TIME:20200430T170000Z
+DTSTART;VALUE=DATE-TIME:20200430T050000Z
+DTEND;VALUE=DATE-TIME:20200430T070000Z
+DTSTAMP;VALUE=DATE-TIME:20200430T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_r1lfF2NYvH.html">Poster
   Page</a>
 END:VEVENT

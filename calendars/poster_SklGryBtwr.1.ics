@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Environmental drivers of systematicity and generalizati
  on in a situated agent
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Environmental drivers of systematicity and generalization in a sit
  uated agent
-DTSTART;VALUE=DATE-TIME:20200427T200000
-DTEND;VALUE=DATE-TIME:20200427T220000
+DTSTART;VALUE=DATE-TIME:20200427T200000Z
+DTEND;VALUE=DATE-TIME:20200427T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_SklGryBtwr.html">Poster
   Page</a>

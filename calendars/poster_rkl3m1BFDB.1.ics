@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Exploratory Not Explanatory: Counterfactual Analysis of
   Saliency Maps for Deep Reinforcement Learning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Exploratory Not Explanatory: Counterfactual Analysis of Saliency M
  aps for Deep Reinforcement Learning
-DTSTART;VALUE=DATE-TIME:20200427T200000
-DTEND;VALUE=DATE-TIME:20200427T220000
+DTSTART;VALUE=DATE-TIME:20200427T200000Z
+DTEND;VALUE=DATE-TIME:20200427T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rkl3m1BFDB.html">Poster
   Page</a>

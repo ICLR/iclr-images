@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: A Target-Agnostic Attack on Deep Models: Exploiting Sec
  urity Vulnerabilities of Transfer Learning
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:A Target-Agnostic Attack on Deep Models: Exploiting Security Vulne
  rabilities of Transfer Learning
-DTSTART;VALUE=DATE-TIME:20200428T050000
-DTEND;VALUE=DATE-TIME:20200428T070000
+DTSTART;VALUE=DATE-TIME:20200428T050000Z
+DTEND;VALUE=DATE-TIME:20200428T070000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_BylVcTNtDS.html">Poster
   Page</a>

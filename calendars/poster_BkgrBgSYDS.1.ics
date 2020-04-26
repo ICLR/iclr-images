@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Kaleidoscope: An Efficient\, Learnable Representation F
  or All Structured Linear Maps
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Kaleidoscope: An Efficient\, Learnable Representation For All Stru
  ctured Linear Maps
-DTSTART;VALUE=DATE-TIME:20200428T200000
-DTEND;VALUE=DATE-TIME:20200428T220000
+DTSTART;VALUE=DATE-TIME:20200428T200000Z
+DTEND;VALUE=DATE-TIME:20200428T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_BkgrBgSYDS.html">Poster
   Page</a>

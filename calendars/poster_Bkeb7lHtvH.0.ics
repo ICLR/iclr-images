@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: At Stability's Edge: How to Adjust Hyperparameters to P
  reserve Minima Selection in Asynchronous Training of Neural Networks?
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:At Stability's Edge: How to Adjust Hyperparameters to Preserve Min
  ima Selection in Asynchronous Training of Neural Networks?
-DTSTART;VALUE=DATE-TIME:20200427T050000
-DTEND;VALUE=DATE-TIME:20200427T070000
+DTSTART;VALUE=DATE-TIME:20200427T050000Z
+DTEND;VALUE=DATE-TIME:20200427T070000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_Bkeb7lHtvH.html">Poster
   Page</a>

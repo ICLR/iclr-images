@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Lipschitz constant estimation of Neural Networks via sp
  arse polynomial optimization
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Lipschitz constant estimation of Neural Networks via sparse polyno
  mial optimization
-DTSTART;VALUE=DATE-TIME:20200427T170000
-DTEND;VALUE=DATE-TIME:20200427T190000
+DTSTART;VALUE=DATE-TIME:20200427T170000Z
+DTEND;VALUE=DATE-TIME:20200427T190000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T170000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rJe4_xSFDB.html">Poster
   Page</a>

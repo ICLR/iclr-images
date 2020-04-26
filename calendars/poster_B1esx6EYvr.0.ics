@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: A critical analysis of self-supervision\, or what we ca
  n learn from a single image
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:A critical analysis of self-supervision\, or what we can learn fro
  m a single image
-DTSTART;VALUE=DATE-TIME:20200428T120000
-DTEND;VALUE=DATE-TIME:20200428T140000
+DTSTART;VALUE=DATE-TIME:20200428T120000Z
+DTEND;VALUE=DATE-TIME:20200428T140000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T120000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_B1esx6EYvr.html">Poster
   Page</a>

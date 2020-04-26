@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Deformable Kernels: Adapting Effective Receptive Fields
   for Object Deformation
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Deformable Kernels: Adapting Effective Receptive Fields for Object
   Deformation
-DTSTART;VALUE=DATE-TIME:20200428T200000
-DTEND;VALUE=DATE-TIME:20200428T220000
+DTSTART;VALUE=DATE-TIME:20200428T200000Z
+DTEND;VALUE=DATE-TIME:20200428T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_SkxSv6VFvS.html">Poster
   Page</a>

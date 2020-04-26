@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Additive Powers-of-Two Quantization: An Efficient Non-u
  niform Discretization for Neural Networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Additive Powers-of-Two Quantization: An Efficient Non-uniform Disc
  retization for Neural Networks
-DTSTART;VALUE=DATE-TIME:20200428T050000
-DTEND;VALUE=DATE-TIME:20200428T070000
+DTSTART;VALUE=DATE-TIME:20200428T050000Z
+DTEND;VALUE=DATE-TIME:20200428T070000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_BkgXT24tDS.html">Poster
   Page</a>

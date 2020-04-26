@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Analysis of Video Feature Learning in Two-Stream CNNs o
  n the Example of Zebrafish Swim Bout Classification
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Analysis of Video Feature Learning in Two-Stream CNNs on the Examp
  le of Zebrafish Swim Bout Classification
-DTSTART;VALUE=DATE-TIME:20200428T080000
-DTEND;VALUE=DATE-TIME:20200428T100000
-DTSTAMP;VALUE=DATE-TIME:20200428T080000Z
+DTSTART;VALUE=DATE-TIME:20200428T050000Z
+DTEND;VALUE=DATE-TIME:20200428T070000Z
+DTSTAMP;VALUE=DATE-TIME:20200428T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rJgQkT4twH.html">Poster
   Page</a>
 END:VEVENT

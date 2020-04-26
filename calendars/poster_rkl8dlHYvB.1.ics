@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Learning to Group: A Bottom-Up Framework for 3D Part Di
  scovery in Unseen Categories
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Learning to Group: A Bottom-Up Framework for 3D Part Discovery in 
  Unseen Categories
-DTSTART;VALUE=DATE-TIME:20200430T200000
-DTEND;VALUE=DATE-TIME:20200430T220000
+DTSTART;VALUE=DATE-TIME:20200430T200000Z
+DTEND;VALUE=DATE-TIME:20200430T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200430T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rkl8dlHYvB.html">Poster
   Page</a>

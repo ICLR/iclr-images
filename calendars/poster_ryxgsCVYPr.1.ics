@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: NeurQuRI: Neural Question Requirement Inspector for Ans
  werability Prediction in Machine Reading Comprehension
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:NeurQuRI: Neural Question Requirement Inspector for Answerability 
  Prediction in Machine Reading Comprehension
-DTSTART;VALUE=DATE-TIME:20200430T170000
-DTEND;VALUE=DATE-TIME:20200430T190000
-DTSTAMP;VALUE=DATE-TIME:20200430T170000Z
+DTSTART;VALUE=DATE-TIME:20200430T120000Z
+DTEND;VALUE=DATE-TIME:20200430T140000Z
+DTSTAMP;VALUE=DATE-TIME:20200430T120000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_ryxgsCVYPr.html">Poster
   Page</a>
 END:VEVENT

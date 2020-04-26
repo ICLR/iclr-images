@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Action Semantics Network: Considering the Effects of Ac
  tions in Multiagent Systems
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Action Semantics Network: Considering the Effects of Actions in Mu
  ltiagent Systems
-DTSTART;VALUE=DATE-TIME:20200430T050000
-DTEND;VALUE=DATE-TIME:20200430T070000
+DTSTART;VALUE=DATE-TIME:20200430T050000Z
+DTEND;VALUE=DATE-TIME:20200430T070000Z
 DTSTAMP;VALUE=DATE-TIME:20200430T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_ryg48p4tPH.html">Poster
   Page</a>

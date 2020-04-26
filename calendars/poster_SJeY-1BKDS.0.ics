@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Understanding l4-based Dictionary Learning: Interpretat
  ion\, Stability\, and Robustness
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Understanding l4-based Dictionary Learning: Interpretation\, Stabi
  lity\, and Robustness
-DTSTART;VALUE=DATE-TIME:20200427T050000
-DTEND;VALUE=DATE-TIME:20200427T070000
+DTSTART;VALUE=DATE-TIME:20200427T050000Z
+DTEND;VALUE=DATE-TIME:20200427T070000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_SJeY-1BKDS.html">Poster
   Page</a>

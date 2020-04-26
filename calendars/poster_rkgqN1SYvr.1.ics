@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Provable Benefit of Orthogonal Initialization in Optimi
  zing Deep Linear Networks
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Provable Benefit of Orthogonal Initialization in Optimizing Deep L
  inear Networks
-DTSTART;VALUE=DATE-TIME:20200427T200000
-DTEND;VALUE=DATE-TIME:20200427T220000
+DTSTART;VALUE=DATE-TIME:20200427T200000Z
+DTEND;VALUE=DATE-TIME:20200427T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200427T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rkgqN1SYvr.html">Poster
   Page</a>

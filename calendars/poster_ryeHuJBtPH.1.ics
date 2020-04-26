@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Hyper-SAGNN: a self-attention based graph neural networ
  k for hypergraphs
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Hyper-SAGNN: a self-attention based graph neural network for hyper
  graphs
-DTSTART;VALUE=DATE-TIME:20200428T200000
-DTEND;VALUE=DATE-TIME:20200428T220000
+DTSTART;VALUE=DATE-TIME:20200428T200000Z
+DTEND;VALUE=DATE-TIME:20200428T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_ryeHuJBtPH.html">Poster
   Page</a>

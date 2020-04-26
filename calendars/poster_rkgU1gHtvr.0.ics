@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Infinite-horizon Off-Policy Policy Evaluation with Mult
  iple Behavior Policies
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavi
  or Policies
-DTSTART;VALUE=DATE-TIME:20200429T050000
-DTEND;VALUE=DATE-TIME:20200429T070000
+DTSTART;VALUE=DATE-TIME:20200429T050000Z
+DTEND;VALUE=DATE-TIME:20200429T070000Z
 DTSTAMP;VALUE=DATE-TIME:20200429T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_rkgU1gHtvr.html">Poster
   Page</a>

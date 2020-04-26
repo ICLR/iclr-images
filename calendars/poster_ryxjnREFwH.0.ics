@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Neural Symbolic Reader: Scalable Integration of Distrib
  uted and Symbolic Representations for Reading Comprehension
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Neural Symbolic Reader: Scalable Integration of Distributed and Sy
  mbolic Representations for Reading Comprehension
-DTSTART;VALUE=DATE-TIME:20200429T080000
-DTEND;VALUE=DATE-TIME:20200429T100000
-DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
+DTSTART;VALUE=DATE-TIME:20200429T170000Z
+DTEND;VALUE=DATE-TIME:20200429T190000Z
+DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_ryxjnREFwH.html">Poster
   Page</a>
 END:VEVENT

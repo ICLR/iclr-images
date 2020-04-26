@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Pretrained Encyclopedia: Weakly Supervised Knowledge-Pr
  etrained Language Model
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained La
  nguage Model
-DTSTART;VALUE=DATE-TIME:20200428T200000
-DTEND;VALUE=DATE-TIME:20200428T220000
+DTSTART;VALUE=DATE-TIME:20200428T200000Z
+DTEND;VALUE=DATE-TIME:20200428T220000Z
 DTSTAMP;VALUE=DATE-TIME:20200428T200000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_BJlzm64tDH.html">Poster
   Page</a>

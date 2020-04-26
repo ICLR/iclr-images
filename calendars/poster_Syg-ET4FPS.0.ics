@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Posterior sampling for multi-agent reinforcement learni
  ng: solving extensive games with imperfect information
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Posterior sampling for multi-agent reinforcement learning: solving
   extensive games with imperfect information
-DTSTART;VALUE=DATE-TIME:20200427T120000
-DTEND;VALUE=DATE-TIME:20200427T140000
-DTSTAMP;VALUE=DATE-TIME:20200427T120000Z
+DTSTART;VALUE=DATE-TIME:20200427T050000Z
+DTEND;VALUE=DATE-TIME:20200427T070000Z
+DTSTAMP;VALUE=DATE-TIME:20200427T050000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_Syg-ET4FPS.html">Poster
   Page</a>
 END:VEVENT

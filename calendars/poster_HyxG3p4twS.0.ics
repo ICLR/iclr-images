@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//ICLR//mxm.dk//
 X-WR-CALNAME:ICLR: Quantifying the Cost of Reliable Photo Authentication v
  ia High-Performance Learned Lossy Representations
-X-WR-TIMEZONE:Etc/GMT
+X-WR-TIMEZONE:GMT
 BEGIN:VEVENT
 SUMMARY:Quantifying the Cost of Reliable Photo Authentication via High-Per
  formance Learned Lossy Representations
-DTSTART;VALUE=DATE-TIME:20200429T080000
-DTEND;VALUE=DATE-TIME:20200429T100000
-DTSTAMP;VALUE=DATE-TIME:20200429T080000Z
+DTSTART;VALUE=DATE-TIME:20200429T170000Z
+DTEND;VALUE=DATE-TIME:20200429T190000Z
+DTSTAMP;VALUE=DATE-TIME:20200429T170000Z
 DESCRIPTION:<a href="http://iclr.cc/virtual/poster_HyxG3p4twS.html">Poster
   Page</a>
 END:VEVENT
