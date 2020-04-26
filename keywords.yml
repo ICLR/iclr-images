@@ -14,12 +14,12 @@
     - "information theory"
 - paper: "SkeuexBtDr"
   keywords:
-    - denoising
-    - noisy labels
-    - nlp
-    - weakly supervised learning
-    - semi supervised learning
-    - text classification   
+    - "denoising"
+    - "noisy labels"
+    - "nlp"
+    - "weakly supervised learning"
+    - "semi supervised learning"
+    - "text classification"   
 - paper: "rkg6sJHYDr"
   keywords:
     - "exploration"
