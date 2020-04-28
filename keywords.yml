@@ -33,7 +33,7 @@
     - "self-play"
     - "emergent languages"
     
-- paper "HygOjhEYDH"
+- paper: "HygOjhEYDH"
   keywords:
     - "generative models"
     - "autoregressive models"
