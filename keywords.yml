@@ -27,3 +27,10 @@
     - "autoencoder"
     - "sample efficiency"
     - "intrinsic motivation"
+- paper: "HygrdpVKvr"
+  keywords:
+    - "nas"
+    - "evaluation"
+    - "random sampling"
+    - "neural architecture search"
+    - "automl"
