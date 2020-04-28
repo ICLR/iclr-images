@@ -32,3 +32,11 @@
     - "multi-agent communication"
     - "self-play"
     - "emergent languages"
+    
+- paper "HygOjhEYDH"
+  keywords:
+    - "generative models"
+    - "autoregressive models"
+    - "rnn"
+    - "time series"
+    - "density estimation"
