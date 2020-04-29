@@ -14,10 +14,8 @@
     - "information theory"
 - paper: "SkeuexBtDr"
   keywords:
-    - "denoising"
     - "noisy labels"
     - "nlp"
-    - "weakly supervised learning"
     - "semi supervised learning"
     - "text classification"   
 - paper: "rkg6sJHYDr"
@@ -32,3 +30,11 @@
     - "multi-agent communication"
     - "self-play"
     - "emergent languages"
+    
+- paper: "HygOjhEYDH"
+  keywords:
+    - "generative models"
+    - "autoregressive models"
+    - "rnn"
+    - "time series"
+    - "density estimation"
